@@ -1,0 +1,11 @@
+
+
+A empresa possui um sistema chamado 'APS Banco de dados 2020 Entrega Rapida' que armazena atraves do seu poderoso Banco de  Dados, informações dos atendentes da empresa, dos produtos, dos clientes e dos fornecedores.
+Através deste sistema os atendentes podem: 
+- registrar pedidos 
+- consultar produtos (quantidade, descrição, preço, etc.)
+- efetuar registro de encomendas aos fornecedores
+- cadastrar clientes
+A empresa oferece aos seus clientes diversas formas de pagamentos, entregas nos formatos de "motoboy, sedex, fedex, correios, etc", sendo que cada respectiva entrega possui um valor.
+O Service Now entrega rapida fornece opções de relatórios customizados de vendas geral, por atendente, de entrega por cliente e de tipo de pagamento, sendo-os: semanal, quinzenal, mensal.
+
